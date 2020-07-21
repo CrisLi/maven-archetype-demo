@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: my-service
+  cloud:
+    config:
+      label: develop
+      uri: http://config-server

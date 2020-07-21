@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: my-service
+  profiles: prod
+  cloud:
+    config:
+      label: master
+      uri: http://config-server
