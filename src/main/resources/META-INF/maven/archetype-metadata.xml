@@ -46,6 +46,7 @@
                 <include>lombok.config</include>
                 <include>formatter.xml</include>
                 <include>LICENSE.txt</include>
+                <include>.editorconfig</include>
             </includes>
         </fileSet>
     </fileSets>
